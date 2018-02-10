@@ -1,2 +1,2 @@
-# jtweber247.github.io
+# JTWeber247.github.io
 repository for Colt Steele Bootcamp
